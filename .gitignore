@@ -8,5 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
-misc/prompt.txt
-misc/resources.txt
+misc/*
