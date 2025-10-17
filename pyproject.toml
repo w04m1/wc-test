@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "jupyterlab>=4.4.9",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "pydantic>=2.12.2",
+    "requests>=2.32.5",
+]
